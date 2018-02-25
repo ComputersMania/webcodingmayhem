@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: webcoding mayhem
+subtitle: A blog that builds itself
+description: A blog about web development in general
+author: Vincenzo Pellegrini
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://webcodingmayhem.tk
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
