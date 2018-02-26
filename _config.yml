@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: webcoding mayhem
+title: Web Coding Mayhem
 subtitle: A blog that builds itself
 description: A blog about web development in general
 author: Vincenzo Pellegrini
 language: en
-timezone:
+timezone: Europe/Rome
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -77,6 +77,12 @@ theme: apollo
 theme_config:
   favicon: images/favicon.png
   logo: images/logo.png
+  menu:
+    Blog: /
+    Archive: /archives/
+    GitHub: https://github.com/ComputersMania/webcodingmayhem
+    Rss: /atom.xml
+  ga: UA-71878049-3
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
