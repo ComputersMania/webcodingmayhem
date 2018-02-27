@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Allow: /
 
 SITEMAP: https://webcodingmayhem.tk/sitemap.xml
