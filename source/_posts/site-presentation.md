@@ -24,7 +24,7 @@ Currenty I'm using Apollo, a really nice and clean responsive template from Chin
 
 ## The host
 
-Currently this all site is hosted for free on [Netlify](htps://www.netlify.com/), because by far it is the best option i've found to host node js based projects. It features all the features you need from a modern static hosting solution, plus the special addition of being able to deploy from anywhere, because it's doing the compiling on the fly in the cloud.
+Currently this all site is hosted for free on [Netlify](https://www.netlify.com/), because by far it is the best option i've found to host node js based projects. It features all the features you need from a modern static hosting solution, plus the special addition of being able to deploy from anywhere, because it's doing the compiling on the fly in the cloud.
 
 ## Source code
 
