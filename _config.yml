@@ -36,7 +36,7 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: false
 relative_link: false
-future: true
+future: truearchives/amp/
 highlight:
   enable: true
   line_number: true
@@ -90,6 +90,21 @@ sitemap:
   custompages:
     index: /
     archive: /archives/
+
+# Amp generator for an amp version of every post page
+
+generator_amp:
+  templateDir:  amp-template
+  assetDistDir: amp-dist
+  logo:
+    path:   logo.png
+    width:  108
+    height: 60
+  substituteTitleImage:
+    path:   sample/sample-substituteTitleImage.png
+    width:  1024
+    height: 800
+  warningLog: false   # To display warning, please set true.
 
 
 # Deployment
