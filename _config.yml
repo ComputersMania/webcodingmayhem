@@ -75,7 +75,7 @@ pagination_dir: page
 theme: apollo
 
 theme_config:
-  favicon: images/favicon.png
+  favicon: images/favicon.ico
   logo: images/logo.png
   menu:
     Blog: /
