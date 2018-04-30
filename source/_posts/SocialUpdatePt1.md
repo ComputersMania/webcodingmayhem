@@ -5,7 +5,7 @@ date: 2018-03-17 15:59:57
 tags:
 ---
 
-Do you think you need to promote your blog on social?  Here It is the way you can do this with your own script using node js.
+If you think you need to promote your blog on social, here It is the way you can do this with your own script using node js.
 In this first part we will go through the core functionalities you need for the script, as well as the basic coding skills you need to learn.
 <!-- more -->
 To jump straight to the code [clik here](#coding)
